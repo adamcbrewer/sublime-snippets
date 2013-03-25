@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+console.group("${1:groupName}");
+${0}
+console.groupEnd();
+]]></content>
+    <tabTrigger>cg</tabTrigger>
+    <scope>source.js</scope>
+    <description>Shortcut for console.group()</description>
+</snippet>
