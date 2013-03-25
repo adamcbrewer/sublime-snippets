@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+echo '<pre>';
+print_r(${1:object});
+echo '</pre>';
+]]></content>
+    <tabTrigger>pr</tabTrigger>
+    <scope>source.php,text.html</scope>
+    <description>Pretty print_r()</description>
+</snippet>

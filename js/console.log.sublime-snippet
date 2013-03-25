@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+console.log(${1:object});
+]]></content>
+    <tabTrigger>cl</tabTrigger>
+    <scope>source.js</scope>
+    <description>Shortcut for console.log()</description>
+</snippet>
