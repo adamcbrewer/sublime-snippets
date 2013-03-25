@@ -4,7 +4,9 @@ Sort your shortcut life out.
 ### JavaScript
 
 #### [cl] console.log
-```console.log(${1:object});```
+```
+console.log(${1:object});
+```
 
 
 ### PHP
