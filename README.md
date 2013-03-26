@@ -31,10 +31,21 @@ ${0}
 console.groupEnd();
 ```
 
+### HTML
+
+#### [ri] a responsive image wrapped in a ```<figure>``` element. Requires supporting CSS.
+
+```
+<figure class="${1:ri}">
+	<img src="${2}" alt="${3}" />
+<figure>
+${0}
+```
+
 
 ### PHP
 
-#### [pr] print_r warpped with ```<pre>``` tags
+#### [pr] print_r wrapped with ```<pre>``` tags
 
 ```js
 echo '<pre>';

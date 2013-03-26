@@ -6,5 +6,5 @@ console.groupEnd();
 ]]></content>
     <tabTrigger>cgc</tabTrigger>
     <scope>source.js</scope>
-    <description>Shortcut for console.groupCollapsed()</description>
+    <description>console.groupCollapsed()</description>
 </snippet>

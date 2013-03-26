@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<figure class="${1:ri}">
+	<img src="${2}" alt="${3}" />
+</figure>
+${0}
+]]></content>
+    <tabTrigger>ri</tabTrigger>
+    <scope>text.html</scope>
+    <description>Responsive image</description>
+</snippet>

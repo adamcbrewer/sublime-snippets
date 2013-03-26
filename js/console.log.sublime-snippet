@@ -4,5 +4,5 @@ console.log(${1:object});
 ]]></content>
     <tabTrigger>cl</tabTrigger>
     <scope>source.js</scope>
-    <description>Shortcut for console.log()</description>
+    <description>console.log()</description>
 </snippet>
